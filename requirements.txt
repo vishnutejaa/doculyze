@@ -1,0 +1,6 @@
+# requirements.txt
+pdf2image
+pandas
+openai
+Pillow
+pytesseract
