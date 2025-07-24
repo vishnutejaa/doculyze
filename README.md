@@ -1,7 +1,3 @@
-Below is the documentation for the provided Python application. It follows a standard format with an overview, requirements, usage instructions, and detailed function descriptions.
-
----
-
 # PDF to CSV Table Extractor Documentation
 
 ## Overview
